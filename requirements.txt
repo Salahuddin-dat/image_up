@@ -4,7 +4,8 @@ gast==0.4.0
 h5py==3.1.0
 keras==2.6.0
 numpy==1.19.5
+werkzeug
 opencv-python-headless==4.5.3.56
 tensorflow-cpu==2.6.0
-werkzeug
+
 
